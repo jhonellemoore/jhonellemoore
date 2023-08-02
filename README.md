@@ -1,7 +1,10 @@
 
 ![](https://github.com/jhonellemoore/jhonellemoore/blob/521e031a42778212cfc1ce5b492c32c26e20e346/bannerImage.jpg)
-![](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)
 
+<div style="width:60px ; height:60px">
+![](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)
+<div>
+  
 ### Hi there 👋
 
 <!--
