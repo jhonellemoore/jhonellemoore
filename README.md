@@ -1,4 +1,4 @@
-![](https://github.com/jhonellemoore/bannerImage.jpg)
+![]([https://github.com/jhonellemoore/bannerImage.jpg](https://github.com/jhonellemoore/jhonellemoore/blob/main/bannerImage.jpg))
 ### Hi there 👋
 
 <!--
