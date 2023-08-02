@@ -6,8 +6,11 @@
 Yo wa gwan! Welcome to my GitHub profile! I'm Jhonelle, and I'm so glad to have you here. I'm a passionate aspiring software developer from Jamaica who fell in love with coding during my internship at TraceLink. Since then, I've been on an incredible journey, constantly learning and exploring various programming languages, frameworks, and tools. I'm deeply enthusiastic about the world of programming and believe in its ability to drive innovation through collaboration.
 
 ### Let's Connect!
-LinkedIn: (https://www.linkedin.com/in/jhonellemoore/)
-Thank you for visiting my GitHub profile. If you find anything interesting or have any questions, feel free to reach out through GitHub's messaging system or via email at jm2471@princeton.edu. Let's connect, share ideas, and make a positive impact on the world of technology together!
+Thank you for visiting my GitHub profile. If you find anything interesting or have any questions, feel free to reach out via:
+- LinkedIn: https://www.linkedin.com/in/jhonellemoore/
+- Email: jm2471@princeton.edu.
+
+Let's connect, share ideas, and make a positive impact on the world of technology together!
 
 Happy coding! 🚀
 
