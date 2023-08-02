@@ -1,5 +1,4 @@
 
-![](https://github.com/jhonellemoore/jhonellemoore/blob/main/bannerImage.jpg)
 ![](https://github.com/jhonellemoore/jhonellemoore/blob/521e031a42778212cfc1ce5b492c32c26e20e346/bannerImage.jpg)
 ### Hi there 👋
 
