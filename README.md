@@ -10,7 +10,7 @@ Thank you for visiting my GitHub profile. If you find anything interesting or ha
 - LinkedIn: https://www.linkedin.com/in/jhonellemoore/
 - Email: jm2471@princeton.edu.
 
-Let's connect, share ideas, and make a positive impact on the world of technology together!
+I'm passionate about creating impact and driving change! Let's connect, share ideas, and make a positive impact on the world of technology together!
 
 Happy coding! 🚀
 
